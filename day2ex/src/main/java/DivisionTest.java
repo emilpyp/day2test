@@ -124,7 +124,9 @@ public class DivisionTest {
     }
 
     /*
-    Find and return digits in 
+    Find and return digits in
+    Modified by Emil
+    aksaca,cac,a c
      */
     public static int findOddPlaces(int input){
         int result = 0;
