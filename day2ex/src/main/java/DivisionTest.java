@@ -128,6 +128,7 @@ public class DivisionTest {
     Modified by Emil
     aksaca,cac,a c
      */
+    //this is test
     public static int findOddPlaces(int input){
         int result = 0;
         int exponent = 100;
